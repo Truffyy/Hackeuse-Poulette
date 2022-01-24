@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../Sass/thankyou.scss"
+  ],
+  "names": [],
+  "mappings": "AAAA,KACI,aACA,sBAEA,WACA,8BACA,kBAEA,KACI,YACA,aACA,qBACA,aACA,SACI,YACA",
+  "file": "thankyou.min.css.map"
+}

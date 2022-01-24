@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../Sass/thankyou.scss"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACI;EACA;EAEA;EACA;EACA;;;AAEA;EACI;EACA;EACA;EACA;;AACA;EACI;EACA",
+  "file": "thankyou.css.map"
+}

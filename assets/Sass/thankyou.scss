@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    
+    color:black;
+    font-family: 'Bellota', cursive;
+    text-align: center;
+    }
+    .img{
+        width: 500px;
+        height: 250px;
+        justify-content: left;
+        margin-top: 0;
+        img{
+            width: 350px;
+            height: 250px;
+        }
+    }

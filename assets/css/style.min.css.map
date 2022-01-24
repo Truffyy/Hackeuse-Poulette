@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "../Sass/style.scss"
+  ],
+  "names": [],
+  "mappings": "AACA,KACA,aACA,sBAEA,WACA,8BAEA,KACI,YACA,aACA,qBACA,aACA,SACI,YACA,aAGR,MACI,aACA,sBACA,gBACA,WACA,yBACA,WACA,YACA,YACA,gBACA,mBAGA,SACI,kBAEJ,SACI,kBAKR,SACQ,YACA,aACA,eACA,mBAGR,2BACI,aAGJ,mBACI,mBACA,mBACA,8BAEJ,kBACI,mBACA,mBACA,8BAKJ",
+  "file": "style.min.css.map"
+}
